@@ -1,2 +1,2 @@
 # Veo
-Aplicación web progresiva ecommerce para la venta de productos.
+Primera prueba teams commit
